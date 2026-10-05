@@ -175,6 +175,67 @@ strokeWeight(6);
   ellipse(1005, 1000, 1750, 50);
   strokeWeight(5);
 
+  strokeWeight(6);
+  fill('#000000');
+  rect(1250, 90, 25, 184,);
+  strokeWeight(1);
+
+  strokeWeight(6);
+  fill('#000000');
+  rect(1580, 90, 25, 184,);
+  strokeWeight(1);
+
+  strokeWeight(6);
+  fill('#fbff00');
+  circle(1262, 62, 50);
+  
+
+  fill('#fbff00');
+  circle(1592, 62, 50);
+  strokeWeight(6);
+
+  
+
+  line(1262, 300, 1262, 250);
+
+  line(1592, 300, 1592, 250);
+
+  strokeWeight(6);
+  fill('#000000');
+  rect(990, 90, 25, 184,);
+  
+   strokeWeight(6);
+  fill('#000000');
+  rect(690, 90, 25, 184,);
+
+   strokeWeight(6);
+  fill('#000000');
+  rect(390, 90, 25, 184,);
+
+  strokeWeight(6);
+  fill('#fbff00');
+  circle(1003, 62, 50);
+
+  strokeWeight(6);
+  fill('#fbff00');
+  circle(703, 62, 50);
+  
+  strokeWeight(6);
+  fill('#fbff00');
+  circle(403, 62, 50);
+
+
+
+
+
+  
+
+ 
+
+
+
+
+
 
 
 
